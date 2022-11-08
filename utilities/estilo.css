@@ -1,0 +1,9 @@
+#bandeira{
+    width: 10%;
+    height: 10%;
+    border-left: 105px solid transparent;
+    border-right: 105px solid transparent;
+    border-top: 65px solid #ffe11f;
+    bottom: 10px;
+    background-color: yellow;
+}
